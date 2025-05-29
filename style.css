@@ -54,6 +54,18 @@ i {
   font-size: 25px;
 }
 
+#gamepad, #coding {
+  font-size: 15px;
+}
+
+#anime {
+  font-size: 14px;
+}
+
+#plane {
+  font-size: 14px;
+}
+
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
